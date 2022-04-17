@@ -1,6 +1,5 @@
 from tkinter import *
 from tkinter import messagebox as mb
-import mysql.connector as sql
 import client
 import _thread
 from csv import DictReader
